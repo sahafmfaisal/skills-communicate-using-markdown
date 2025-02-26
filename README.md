@@ -1,5 +1,20 @@
 # My Book App
 ## About
+#### My Book App
+### About
+This is a simple book app to add and list books.
+
+##### Features
+- Add a new book
+- List all books
+###### My Book App
+## About
+This is a simple book app to add and list books.
+
+### Features
+- Add a new book
+- List all books
+
 This is a simple book app to add and list books.
 
 ### Features
